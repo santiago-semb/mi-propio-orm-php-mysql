@@ -195,7 +195,7 @@ footer {
 
     <div class="container">
         <div class="centrado heartbeat">
-            <a href="#"><h1 id="title">MANUAL<b> page</b></h1></a>
+            <a href="https://santiago-semb.github.io/doc-orm-php-mysql/"><h1 id="title">MANUAL<b> page</b></h1></a>
         </div>
     </div>
 
